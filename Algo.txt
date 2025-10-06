@@ -1,2 +1,3 @@
 Step 1: Order the Pizza
+Step 1a: Receive confirmation
 Step 2: Wait for delivery
